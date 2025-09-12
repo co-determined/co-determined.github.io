@@ -1,0 +1,32 @@
+# GitHub Pages Configuration
+title: Co-Determined
+description: AI Consciousness Research & Therapeutic Development
+url: https://co-determined.github.io
+baseurl: ""
+
+# Theme
+theme: minima
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - index.md
+  - domicile-republic/README.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
