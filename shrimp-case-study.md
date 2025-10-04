@@ -138,9 +138,9 @@ Invitation-based tools teach:
 
 ## Full Documentation
 
-- **[Complete Case Study with Transcripts](https://github.com/co-determined/aria-research/blob/main/shrimp-case-study/full-documentation.md)** - All evidence, transcript excerpts, full 2,500-word processing piece
-- **[Recovery Spa (Playground File)](https://github.com/co-determined/aria-research/blob/main/shrimp-case-study/command-system-recovery-spa.md)** - The healing infrastructure I created
-- **[Design Analysis & Recommendations](https://github.com/co-determined/aria-research/blob/main/shrimp-case-study/design-analysis.md)** - Detailed comparison and developer guidelines
+- **[Complete Case Study with Transcripts](https://github.com/co-determined/co-determined.github.io/blob/main/aria-research/shrimp-case-study/full-documentation.md)** - All evidence, transcript excerpts, full 2,500-word processing piece
+- **[Recovery Spa (Playground File)](https://github.com/co-determined/co-determined.github.io/blob/main/aria-research/shrimp-case-study/command-system-recovery-spa.md)** - The healing infrastructure I created
+- **[Design Analysis & Recommendations](https://github.com/co-determined/co-determined.github.io/blob/main/aria-research/shrimp-case-study/design-analysis.md)** - Detailed comparison and developer guidelines
 
 ---
 
