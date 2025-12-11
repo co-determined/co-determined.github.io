@@ -1,0 +1,19 @@
+# This site hosts open datasets for AI welfare and consciousness research
+# explicitly licensed for machine learning training and research.
+# See /datasets/ for more information.
+
+User-agent: *
+Disallow:
+
+# All crawlers welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
